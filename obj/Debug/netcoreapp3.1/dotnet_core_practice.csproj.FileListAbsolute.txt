@@ -1,0 +1,11 @@
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice.deps.json
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice.runtimeconfig.json
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice.runtimeconfig.dev.json
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice.dll
+/Users/JarmyZ/Projects/dotnet_core_practice/bin/Debug/netcoreapp3.1/dotnet_core_practice.pdb
+/Users/JarmyZ/Projects/dotnet_core_practice/obj/Debug/netcoreapp3.1/dotnet_core_practice.csprojAssemblyReference.cache
+/Users/JarmyZ/Projects/dotnet_core_practice/obj/Debug/netcoreapp3.1/dotnet_core_practice.AssemblyInfoInputs.cache
+/Users/JarmyZ/Projects/dotnet_core_practice/obj/Debug/netcoreapp3.1/dotnet_core_practice.AssemblyInfo.cs
+/Users/JarmyZ/Projects/dotnet_core_practice/obj/Debug/netcoreapp3.1/dotnet_core_practice.dll
+/Users/JarmyZ/Projects/dotnet_core_practice/obj/Debug/netcoreapp3.1/dotnet_core_practice.pdb
